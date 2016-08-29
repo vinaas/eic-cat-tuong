@@ -1,0 +1,16 @@
+307 - 322;		// H3B (day)
+295 - 306;		// H3T  (Dinh)
+223 - 245;		// H3F (mat truoc)
+259 - 278;		// H3A (sau)
+246 - 258;		// H3C  (phai)
+279 - 294;		// H3S (trai)
+434 - 447;		// H1B (day)
+418 - 433;		// H1T  (Dinh)
+339 - 358;		// H1F (Ham1 mat truoc)
+375 - 387;		// H1A (sau)
+359 - 374;		// H1C  (phai)
+388 - 417;		// H1S (trai)
+$5-5;			//DP
+@1;					//anpha = after
+#2;			//beta
+!94;		//LPB

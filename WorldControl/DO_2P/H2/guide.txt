@@ -1,0 +1,10 @@
+190 - 208;		// H2B (day)
+178 - 189;		// H2T  (Dinh)
+123 - 130;		// H2F (mat truoc)
+143 - 157;		// H2A (sau)
+131 - 142;		// H2C  (phai)
+158 - 177;		// H2S (trai)
+$5-5;			//DP
+@1;					//anpha = after
+#2;			//beta
+!94;		//LPB

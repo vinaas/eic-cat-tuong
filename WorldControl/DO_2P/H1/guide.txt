@@ -1,0 +1,10 @@
+99 - 112;		// H1B (day)
+83 - 98;		// H1T  (Dinh)
+4  - 23;		// H1F (Ham1 mat truoc)
+40 - 52;		// H1A (sau)
+24 - 39;		// H1C  (phai)
+53 - 82;		// H1S (trai)
+$5-5;			//DP
+@1;					//anpha = after
+#2;			//beta
+!94;		//LPB
