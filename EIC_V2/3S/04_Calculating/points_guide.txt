@@ -1,16 +1,14 @@
- 1 - 6; 		 //Plane 0
- 7 - 11; 		 //Plane 1
- 12 - 21; 		 //Plane 2
- 22 - 26; 		 //Plane 3
- 27 - 35; 		 //Plane 4
- 36 - 40; 		 //Plane 5
- 41 - 44; 		 //Plane 6  //REMOVE 45
- 46 - 50; 		 //Plane 7
- 51 - 56; 		 //Plane 8
- 57 - 61; 		 //Plane 9
- 62 - 66; 		 //Plane 10
- 67 - 71; 		 //Plane 11
-$-699.6667, 1657.6667, -1442.3333 ; 		 //measured point 
+ 1 - 5; 		 //Plane 0
+ 6 - 10; 		 //Plane 1
+ 11 - 19; 		 //Plane 2
+ 20 - 24; 		 //Plane 3
+ 25 - 33; 		 //Plane 4
+ 34 - 38; 		 //Plane 5
+ 39 - 43; 		 //Plane 6
+ 44 - 48; 		 //Plane 7
+ 49 - 53; 		 //Plane 8
+ 54 - 58; 		 //Plane 9
+$-1060.0000, 1153.0000, -1433.0000 ; 		 //measured point 
 @4 ; 		 //anpha order
 #3 ; 		 //beta order
-!84.97 ;		 //LBP (m)
+!98.50 ;		 //LBP (m)
