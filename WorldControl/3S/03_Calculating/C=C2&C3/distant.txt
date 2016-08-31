@@ -1,0 +1,20 @@
+Plane 0: segment 0: 7091.517(mm),  segment 1: 12550.562(mm),  segment 2: 7059.736(mm),  segment 3: 12581.056(mm),  
+
+Plane 1: segment 0: 2090.982(mm),  segment 1: 12566.836(mm),  segment 2: 2073.886(mm),  segment 3: 12575.904(mm),  
+
+Plane 2: segment 0: 4952.727(mm),  segment 1: 12578.960(mm),  segment 2: 4956.582(mm),  segment 3: 12600.286(mm),  
+
+Plane 3: segment 0: 7091.517(mm),  segment 1: 821.895(mm),  segment 2: 5912.444(mm),  segment 3: 903.746(mm),  segment 4: 2090.982(mm),  segment 5: 1438.469(mm),  segment 6: 4952.727(mm),  segment 7: 9063.567(mm),  
+
+Plane 4: segment 0: 7059.736(mm),  segment 1: 849.763(mm),  segment 2: 5959.480(mm),  segment 3: 853.060(mm),  segment 4: 2073.886(mm),  segment 5: 1434.496(mm),  segment 6: 4956.582(mm),  segment 7: 9084.208(mm),  
+
+Plane 5: segment 0: 12581.056(mm),  segment 1: 9084.208(mm),  segment 2: 12600.286(mm),  segment 3: 9063.567(mm),  
+
+Plane 6: segment 0: 12550.562(mm),  segment 1: 849.763(mm),  segment 2: 12551.416(mm),  segment 3: 821.895(mm),  
+
+Plane 7: segment 0: 12551.416(mm),  segment 1: 5959.480(mm),  segment 2: 12564.253(mm),  segment 3: 5912.444(mm),  
+
+Plane 8: segment 0: 12564.253(mm),  segment 1: 853.060(mm),  segment 2: 12566.836(mm),  segment 3: 903.746(mm),  
+
+Plane 9: segment 0: 12575.904(mm),  segment 1: 1434.496(mm),  segment 2: 12578.960(mm),  segment 3: 1438.469(mm),  
+
