@@ -1,4 +1,4 @@
-   Point ID     ,  Hz.(ï¿½ ' "),  V.(ï¿½ ' "),Slope Dist.(m),Refl.Ht.(m),Inst.Ht.(m),Easting(m),  Northing(m),  Height(m)
+   Point ID     ,  Hz.(º ' "),  V.(º ' "),Slope Dist.(m),Refl.Ht.(m),Inst.Ht.(m),Easting(m),  Northing(m),  Height(m)
 CEH             ,    0 00 02 ,   89 56 35,          0,      0.000,      0.000,            0,            0,          0
 2               ,  359 54 12 ,   89 36 25,      6.184,      0.000,      0.000,       -0.010,        6.183,      0.042
 3               ,  111 36 06 ,  141 59 30,      1.804,      0.000,      0.000,        1.033,       -0.409,     -1.421
