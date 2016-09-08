@@ -1,9 +1,12 @@
-Value of point 39 is replaced by the average_point 
-Value of point 41 is replaced by the average_point 
-Value of point 45 is replaced by the average_point 
-Value of point 44 is replaced by the average_point 
-Value of point 51 is replaced by the average_point 
-Value of point 56 is replaced by the average_point 
-Value of point 48 is replaced by the average_point 
+Value of point 5 is replaced by the average_point 
+Value of point 43 is replaced by the average_point 
+Value of point 47 is replaced by the average_point 
+Value of point 74 is replaced by the average_point 
+
+
+Value of point 54 is replaced by the average_point 
+Value of point 58 is replaced by the average_point 
+Value of point 63 is replaced by the average_point 
+Value of point 71 is replaced by the average_point 
 
 
