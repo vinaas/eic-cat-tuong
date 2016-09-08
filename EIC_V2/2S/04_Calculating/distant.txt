@@ -1,3 +1,9 @@
+Forward <-> After : 
+  Plane 0 & 5 :11804.064(mm)
+Center <-> Side: 
+  Plane 0 & 4: 7107.878(mm)
+  ( Plane 0 & 3: 5623.658(mm))
+
 Plane 0: segment 0: 5623.658(mm),  segment 1: 11804.064(mm),  segment 2: 7107.878(mm),  segment 3: 3463.478(mm),  segment 4: 8479.736(mm),  
 
 Plane 1: segment 0: 1870.890(mm),  segment 1: 1612.637(mm),  segment 2: 10217.652(mm),  segment 3: 2087.123(mm),  segment 4: 11814.805(mm),  
