@@ -4,8 +4,8 @@
       3898.3580,	      -4449.8459,	      -1473.0492 ; 		 //plane 0 point @4 
       3504.3886,	      -2559.1011,	      -1467.4635 ; 		 //plane 0 point @5 
        287.7926,	       6275.9814,	      -1444.4639 ; 		 //plane 0 point @6 
-     -1857.5152,	       6222.9487,	       6188.1751 ; 		 //plane 1  NOT REORDER point @7 
-      2630.6318,	       6285.9385,	       6190.8675 ; 		 //plane 1  NOT REORDER point @8 
+      2630.6318,	       6285.9385,	       6190.8675 ; 		 //plane 1  NOT REORDER point @7 
+     -1857.5152,	       6222.9487,	       6188.1751 ; 		 //plane 1  NOT REORDER point @8 
      -1772.4411,	       1433.6546,	       6165.0539 ; 		 //plane 1  NOT REORDER point @9 
       3205.8479,	       1519.7795,	       6168.1190 ; 		 //plane 1  NOT REORDER point @10 
       3294.3805,	      -4459.0199,	       6139.2459 ; 		 //plane 1  NOT REORDER point @11 
@@ -30,15 +30,15 @@
       3194.7476,	       1522.7664,	       7621.2859 ; 		 //plane 4 point @30 
      -1772.4976,	       1436.8313,	       7617.6810 ; 		 //plane 4 point @31 
      -1772.4411,	       1433.6546,	       6165.0539 ; 		 //plane 4 point @32 
-     -1857.9225,	       6245.8779,	      -1449.4047 ; 		 //plane 5  NOT REORDER point @33 
-     -1666.4288,	      -4534.3712,	      -1485.8850 ; 		 //plane 5  NOT REORDER point @34 
+     -1666.4288,	      -4534.3712,	      -1485.8850 ; 		 //plane 5  NOT REORDER point @33 
+     -1857.9225,	       6245.8779,	      -1449.4047 ; 		 //plane 5  NOT REORDER point @34
      -1857.5152,	       6222.9487,	       6188.1751 ; 		 //plane 5  NOT REORDER point @35 
      -1772.4411,	       1433.6546,	       6165.0539 ; 		 //plane 5  NOT REORDER point @36 
      -1772.4976,	       1436.8313,	       7617.6810 ; 		 //plane 5  NOT REORDER point @37 
      -1666.4288,	      -4534.3712,	       7596.4986 ; 		 //plane 5  NOT REORDER point @38 
      -1666.4288,	      -4534.3712,	       6136.2422 ; 		 //plane 5  NOT REORDER point @39 
-      3898.3580,	      -4449.8459,	      -1473.0492 ; 		 //plane 6  NOT REORDER point @40 
-     -1666.4288,	      -4534.3712,	      -1485.8850 ; 		 //plane 6  NOT REORDER point @41 
+     -1666.4288,	      -4534.3712,	      -1485.8850 ; 		 //plane 6  NOT REORDER point @40
+      3898.3580,	      -4449.8459,	      -1473.0492 ; 		 //plane 6  NOT REORDER point @41 
       4429.6497,	      -4441.7759,	       -648.1624 ; 		 //plane 6  NOT REORDER point @42 
       5392.0978,	      -4427.1570,	       3338.3430 ; 		 //plane 6  NOT REORDER point @43 
       5394.8325,	      -4427.1154,	       5285.4731 ; 		 //plane 6  NOT REORDER point @44 
