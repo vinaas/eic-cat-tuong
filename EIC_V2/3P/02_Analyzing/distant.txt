@@ -1,30 +1,30 @@
  PLANE 0 
-Segment 0: 7053(mm),  Segment 1: 12587(mm),  Segment 2: 7072(mm),  Segment 3: 12600(mm),  
+Segment 0: 7053(mm),  Segment 1: 12589(mm),  Segment 2: 7072(mm),  Segment 3: 12601(mm),  
 
  PLANE 1 
-Segment 0: 4930(mm),  Segment 1: 12577(mm),  Segment 2: 4969(mm),  Segment 3: 12586(mm),  
+Segment 0: 4930(mm),  Segment 1: 12578(mm),  Segment 2: 4969(mm),  Segment 3: 12587(mm),  
 
  PLANE 2 
-Segment 0: 7053(mm),  Segment 1: 791(mm),  Segment 2: 5959(mm),  Segment 3: 878(mm),  Segment 4: 2090(mm),  Segment 5: 1437(mm),  Segment 6: 4930(mm),  Segment 7: 9068(mm),  
+Segment 0: 7053(mm),  Segment 1: 792(mm),  Segment 2: 5959(mm),  Segment 3: 878(mm),  Segment 4: 2090(mm),  Segment 5: 1437(mm),  Segment 6: 4930(mm),  Segment 7: 9068(mm),  
 
  PLANE 3 
-Segment 0: 12587(mm),  Segment 1: 9068(mm),  Segment 2: 12577(mm),  Segment 3: 9081(mm),  
+Segment 0: 12589(mm),  Segment 1: 9068(mm),  Segment 2: 12578(mm),  Segment 3: 9081(mm),  
 
  PLANE 4 
 Segment 0: 7072(mm),  Segment 1: 812(mm),  Segment 2: 5997(mm),  Segment 3: 874(mm),  Segment 4: 2077(mm),  Segment 5: 1397(mm),  Segment 6: 4969(mm),  Segment 7: 9081(mm),  
 
  PLANE 5 
-Segment 0: 12600(mm),  Segment 1: 791(mm),  Segment 2: 12600(mm),  Segment 3: 812(mm),  
+Segment 0: 12601(mm),  Segment 1: 792(mm),  Segment 2: 12601(mm),  Segment 3: 812(mm),  
 
  PLANE 6 
-Segment 0: 12600(mm),  Segment 1: 5959(mm),  Segment 2: 12593(mm),  Segment 3: 5997(mm),  
+Segment 0: 12601(mm),  Segment 1: 5959(mm),  Segment 2: 12594(mm),  Segment 3: 5997(mm),  
 
  PLANE 7 
-Segment 0: 12593(mm),  Segment 1: 878(mm),  Segment 2: 12591(mm),  Segment 3: 874(mm),  
+Segment 0: 12594(mm),  Segment 1: 878(mm),  Segment 2: 12593(mm),  Segment 3: 874(mm),  
 
  PLANE 8 
-Segment 0: 12591(mm),  Segment 1: 2090(mm),  Segment 2: 12587(mm),  Segment 3: 2077(mm),  
+Segment 0: 12593(mm),  Segment 1: 2090(mm),  Segment 2: 12589(mm),  Segment 3: 2077(mm),  
 
  PLANE 9 
-Segment 0: 12587(mm),  Segment 1: 1437(mm),  Segment 2: 12586(mm),  Segment 3: 1397(mm),  
+Segment 0: 12589(mm),  Segment 1: 1437(mm),  Segment 2: 12587(mm),  Segment 3: 1397(mm),  
 
