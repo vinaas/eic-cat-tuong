@@ -1,4 +1,4 @@
-   Point ID     ,  Hz.(ï¿½ ' "),  V.(ï¿½ ' "),Slope Dist.(m),Refl.Ht.(m),Inst.Ht.(m),Easting(m),  Northing(m),  Height(m)
+   Point ID     ,  Hz.(º ' "),  V.(º ' "),Slope Dist.(m),Refl.Ht.(m),Inst.Ht.(m),Easting(m),  Northing(m),  Height(m)
 ADG             ,  359 59 59 ,   90 24 57,          0,      0.000,      0.000,            0,            0,          0
 2               ,    0 01 41 ,   90 26 34,      6.275,      0.000,      0.000,        0.003,        6.275,     -0.048
 3               ,   71 54 56 ,  140 12 17,      1.895,      0.000,      0.000,        1.153,        0.377,     -1.456
